@@ -1,1 +1,1 @@
-[https://www.codewars.com/users/diman44/badges/large]
+![https://www.codewars.com/users/diman44/badges/large]
