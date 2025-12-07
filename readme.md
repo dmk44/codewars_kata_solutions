@@ -1,6 +1,6 @@
 # Codewars Solutions
 
-[RU](README.rus.md)
+[RU](readme.rus.md)
 
 This repository contains my personal collection of Codewars kata solutions.
 

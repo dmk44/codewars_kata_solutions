@@ -1,6 +1,6 @@
 # Решения задач с Codewars
 
-[EN](README.md)
+[EN](readme.md)
 
 Это мой личный репозиторий с решениями kata разных уровней с **Codewars**.
 
